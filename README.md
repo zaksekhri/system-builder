@@ -1,2 +1,2 @@
 # System Builder
- A program which constructs a solar system. 
+A little program which builds a solar system.
